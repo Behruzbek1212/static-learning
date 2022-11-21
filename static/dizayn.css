@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: rgb(203, 224, 15);
+}
+
+h3{
+    color: blue;
+}
+
+.content{
+    color: rgb(195, 0, 255);
+}
+.price{
+    color: red;
+
+}
